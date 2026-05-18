@@ -1,0 +1,2 @@
+# Gandalf_Playlog_Public
+Gandalfをプレイしたときの記録のPublic版
